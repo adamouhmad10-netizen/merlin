@@ -12,3 +12,6 @@ yarn-error.log*
 .vercel
 next-env.d.ts
 /coverage
+
+# TypeScript incremental build cache
+*.tsbuildinfo
